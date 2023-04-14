@@ -2,8 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 st.write("""
-#Aplikasi Menghitung Luas Bangun
-ini adalah aplikasi menghitung luas Bangun sederhana menggunakan streamlit
+#aplikasi web sederhana kanggo ngitung luas bangunan
 """)
 
 #Navigas sidebar
